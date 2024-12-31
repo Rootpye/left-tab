@@ -1,5 +1,5 @@
 # left-tab
-left-tab is simple code for tab more easily 
+left-tab is simple code for do tab more easily 
 
 # Install
 ```
