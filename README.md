@@ -3,7 +3,7 @@ left-tab is simple code for do tab more easily
 
 # Install
 ```
-$ npm install lefttap
+$ npm install left-tap
 ```
 
 # Example
